@@ -11,4 +11,5 @@ A template for developing NodeJS based applications using ES6 syntax.
 2. Run npm i to install the dependencies.
 3. Run npm start to build the project, start watching files and run the local server.
 
+##Javascript Packages
 This application uses many javascript packages, the packages can be seen in the [package.json](http://git@github.com:/NodeJs-App-Skeleton/package.json) file.
