@@ -13,3 +13,5 @@ A template for developing NodeJS based applications using ES6 syntax.
 
 ##Javascript Packages
 This application uses many javascript packages, the packages can be seen in the [package.json](http://git@github.com:/NodeJs-App-Skeleton/package.json) file.
+
+##Directory Structure
