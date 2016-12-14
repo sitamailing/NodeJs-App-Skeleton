@@ -1,13 +1,13 @@
 {
-  "name": "nicolette",
+  "name": "NodeJs-App-Skeleton",
   "version": "1.0.0",
-  "description": "Nicolette",
+  "description": "Application Skeleton in NodeJs",
   "author": "Sita Prajapati <sitaprajapati@lftechnology.com>",
-  "license": "Leapfrog Technology",
+  "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:bcoe/npm-typeahead.git"
+    "url": "git@github.com:sitamailing/NodeJs-App-Skeleton.git"
   },
   "scripts": {
     "start": "run-s lint dev",
